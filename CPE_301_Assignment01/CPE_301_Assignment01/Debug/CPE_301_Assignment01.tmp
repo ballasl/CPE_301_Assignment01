@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\M328pDEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\Debug\CPE_301_Assignment01.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>CPE_301_Assignment01.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>CPE_301_Assignment01.map</FILE>
+  <FILE>CPE_301_Assignment01.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>49</LINE></start>
+  <DATATABLE><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>25</LINE></DATATABLE>
+  <STARTADDS><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>210</LINE></STARTADDS>
+  <FillLoop><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>67</LINE></FillLoop>
+  <DIVBY5><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>212</LINE></DIVBY5>
+  <NOTDIVBY5><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>214</LINE></NOTDIVBY5>
+  <DivideLoop><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>106</LINE></DivideLoop>
+  <DivideLoopAgain><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>111</LINE></DivideLoopAgain>
+  <RemainingIsZero><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>123</LINE></RemainingIsZero>
+  <DivideCheckEnd><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>130</LINE></DivideCheckEnd>
+  <SumLoop><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>156</LINE></SumLoop>
+  <SumDivBy5><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>162</LINE></SumDivBy5>
+  <SumNotDiv><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>175</LINE></SumNotDiv>
+  <SumNotDivBy5><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>182</LINE></SumNotDivBy5>
+  <SumCheckEnd><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>194</LINE></SumCheckEnd>
+  <stop><FILE>D:\CPE_301\CPE_301_Assignment01\CPE_301_Assignment01\CPE_301_Assignment01\main.asm</FILE><LINE>203</LINE></stop>
+ </LABELS>
+</ASSEMBLER_INFO>
